@@ -1,0 +1,11 @@
+{
+  "name": "WidgetStuff",
+  "plural": "widgetStuffs",
+  "base": "Model",
+  "idInjection": true,
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
